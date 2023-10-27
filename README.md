@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --><h1 align="center">Hi 👋, I'm Amirah Syazwani Binti Sapuan</h1>
 <h3 align="center">A 2nd year student in UTM majoring Bachelor Degree in Computer Science (Graphic and Multimedia Software)</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **programming that can make me rich**
 
 - 📫 How to reach me **asyazwani861@gmail.com**
 
